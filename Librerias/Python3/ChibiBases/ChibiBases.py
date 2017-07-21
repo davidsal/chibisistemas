@@ -1,6 +1,6 @@
 """ LICENCIA
 
-Bases, Libreria para Python3 que permite convertir bases numericas
+ChibiBases, Libreria para Python3 que permite convertir bases numericas
     Copyright (C) 2017  David Melara
 
     This program is free software: you can redistribute it and/or modify
