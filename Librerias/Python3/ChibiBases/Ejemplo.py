@@ -1,4 +1,4 @@
-import ChibiBases  # Importamos la libreria
+import ChibiBases  # Importamos la libreria 
 
 print("Base32 6I es: " + str(ChibiBases.convertirbaseadecimal("6I", 32)))  # La funcion recibe un string y regresa un entero decimal
 
